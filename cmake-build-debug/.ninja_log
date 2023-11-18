@@ -1,0 +1,6 @@
+# ninja log v5
+466	550	1700301906854903156	createPatterns	cfb1fa24baa16dc2
+3	402	1700301906706901974	CMakeFiles/createPatterns.dir/sources/SetupFactory.cpp.o	efb011363aa103fc
+1	466	1700301906770902485	CMakeFiles/createPatterns.dir/main.cpp.o	b4fb52408704d909
+0	48	1700303563306134417	build.ninja	cff6b4695536c577
+2	419	1700301906722902101	CMakeFiles/createPatterns.dir/sources/Heros.cpp.o	bb0a8bf505ca55b7
